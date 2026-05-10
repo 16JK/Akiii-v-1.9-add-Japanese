@@ -9,6 +9,8 @@ Akiii 回复器是一款专为 X / Twitter KOL 打造的 AI 回复辅助 Chrome 
 
 生成后的内容不会自动发送，而是先进入可编辑草稿窗口。用户可以自行修改、润色，确认满意后再填入 X 回复框。
 
+<img width="1690" height="1443" alt="image" src="https://github.com/user-attachments/assets/0328e04f-61b6-43e5-b49a-d71012d10fa6" />
+
 ---
 
 ## 项目简介
@@ -48,6 +50,9 @@ Akiii 回复器的核心目标是：
 
 在 X / Twitter 时间线或推文详情页中，插件会在推文操作区域加入 `AI回` 按钮。
 
+<img width="650" height="241" alt="image" src="https://github.com/user-attachments/assets/5a4a3d46-ef09-4c8c-bc30-aa1e171128d0" />
+
+
 点击后，插件会自动识别当前推文内容，并生成一条适合直接回复的评论。
 
 ---
@@ -65,6 +70,8 @@ Akiii 回复器的核心目标是：
 为了解决 X 输入框自动填入后不方便修改的问题，Akiii 回复器不会直接强行写入内容。
 
 生成后的回复会先进入独立的可编辑草稿窗口。
+<img width="443" height="284" alt="image" src="https://github.com/user-attachments/assets/55749570-46c7-4973-8d3e-7e15400185f7" />
+
 
 用户可以：
 
@@ -86,6 +93,9 @@ Akiii 回复器的核心目标是：
 - 中文推文生成中文短评
 - 英文推文生成英文回复
 - 中英混合推文根据主要语言自动选择
+
+<img width="509" height="642" alt="image" src="https://github.com/user-attachments/assets/6be22880-b1b4-474a-8a95-6fdbb568f7ed" />
+
 
 英文回复会尽量保持自然、简洁，像真实 Web3 / Crypto KOL 的评论，而不是中式英语或翻译腔。
 
@@ -137,6 +147,9 @@ Akiii 回复器内置了专门优化过的 KOL 回复提示词。
 - 兼容 Chat Completions 的接口
 - API2D / 中转接口
 
+<img width="503" height="509" alt="image" src="https://github.com/user-attachments/assets/9c65effb-8239-4d6a-8145-f1bcd06dc13c" />
+
+
 如果 API Key 是 `fk` 开头，插件会自动识别为 API2D / 中转 Key，避免误走 OpenAI 官方接口导致报错。
 
 ---
@@ -148,6 +161,9 @@ Akiii 回复器内置了专门优化过的 KOL 回复提示词。
 不会上传到任何第三方服务器。
 
 请注意：不要把自己的 API Key 上传到 GitHub，也不要写进公开代码里。
+
+<img width="498" height="513" alt="image" src="https://github.com/user-attachments/assets/66b10c36-d47e-4bc3-b26e-aecf0e88d8e4" />
+
 
 ---
 
@@ -315,6 +331,10 @@ v1.9
 
 作者：Akiii  
 X：[@Guomin184935](https://x.com/Guomin184935)
+Telegram 社群：https://t.me/ZzWzryZz
+
+<img width="635" height="811" alt="image" src="https://github.com/user-attachments/assets/b4f747be-9c73-4ecf-a457-08d305467137" />
+
 
 ---
 
