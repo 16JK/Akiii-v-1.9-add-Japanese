@@ -330,7 +330,9 @@ v1.9
 ## 作者信息
 
 作者：Akiii  
+
 X：[@Guomin184935](https://x.com/Guomin184935)
+
 Telegram 社群：https://t.me/ZzWzryZz
 
 <img width="635" height="811" alt="image" src="https://github.com/user-attachments/assets/b4f747be-9c73-4ecf-a457-08d305467137" />
